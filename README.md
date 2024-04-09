@@ -24,7 +24,7 @@ def circulate():
     print("After circulating the values are:",num[n:]+num[:n])
 ```
 ## Output:
-![Screenshot 2024-03-12 202613](https://github.com/karuniya2005/Circulate-the-values-of-N-variables/assets/161425769/3bd92b9c-04a5-4147-9276-5ea4dcf3dc42)
+![alt text](<Screenshot 2024-04-09 125653.png>)
 
 ## Result:
 thus the program is successfully executed
